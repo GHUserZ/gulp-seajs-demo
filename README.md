@@ -5,7 +5,7 @@
 ## 初始化目录结构
   gulp init
 ## 开发环境
-  gulp dev
+  npm run dev
 ## 生产环境
-  gulp start
+  npm run start
   
