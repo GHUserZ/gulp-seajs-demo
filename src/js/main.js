@@ -1,0 +1,1 @@
+seajs.use(['module1', 'module2']);
